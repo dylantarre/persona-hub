@@ -230,3 +230,22 @@ Note:
 2. Your NPC description should be specific and consistent with the game.
 3. You also need to specify how the NPC interacts with players in the game.
 '''
+
+ux_persona = '''Create a detailed UX persona based on the following information:
+
+{persona}
+
+Note:
+
+1. The persona should include the following sections:
+   - **Name**: The persona's name.
+   - **Demographics**: Age, gender, occupation, education, and location.
+   - **Goals**: What the persona aims to achieve.
+   - **Frustrations**: Pain points and challenges faced by the persona.
+   - **Behaviors**: Typical actions and habits.
+   - **Motivations**: What drives the persona to achieve their goals.
+   - **Technological Proficiency**: The persona's comfort level with technology.
+   - **Preferred Channels**: How the persona prefers to communicate and receive information.
+2. Your response should start with "Persona:".
+3. Ensure the persona is realistic and can be used for UX design purposes.
+'''
